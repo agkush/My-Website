@@ -21,6 +21,10 @@ View the Website here ->
 
 ## Credits
 
+* https://undraw.co/ provided me with free svg illustrations.
+* https://freesvgillustration.com/ provided me with free svg illustrations.
+* ChatGPT helped me in development, CSS formatting and debugging.
+* Github for free deployment of website.
 
 ## Contact
 If you have any questions, suggestions, or feedback, feel free to contact me through the following channels:
