@@ -6,7 +6,7 @@
   });
 
   /**
-   * Function gets called when page is loaded.
+   * Function gets called when page is loaded..
    */
   function on_page_load() {
     // Initialize On-scroll Animations
