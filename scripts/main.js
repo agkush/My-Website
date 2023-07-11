@@ -9,7 +9,7 @@
    * Function gets called when page is loaded.
    */
   function on_page_load() {
-    // Initialize On-scroll Animations
+    // Initialize On-scroll Animations.
     AOS.init({
       anchorPlacement: 'top-left',
       duration: 600,
@@ -21,7 +21,7 @@
   }
 
   /**
-   * Navbar effects and scrolltop buttons upon scrolling
+   * Navbar effects and scrolltop buttons
    */
   const navbar = document.getElementById('header-nav')
   var body = document.getElementsByTagName("body")[0]
